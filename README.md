@@ -1,5 +1,5 @@
 # Fire Insurance Premium Prediction
-###Crédit Agricole Assurances : Agricultural Multi-Risk Insurance
+### Crédit Agricole Assurances : Agricultural Multi-Risk Insurance
 
 > **Leaderboard RMSE: 5,603** | Master's Applied Machine Learning 2024–2025
 
